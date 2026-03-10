@@ -17,7 +17,7 @@ function About() {
           
           <div className="about-text">
             <p>
-              I'm a B.Tech CSE student at ITER, SOA University, Bhubaneswar, specializing in full-stack development with expertise in React, Node.js, and MongoDB.
+              I'm a B.Tech CSE student at ITER, SOA University, Bhubaneswar, specializing in full-stack development with expertise in React, Node.js, and MySQL.
             </p>
             <p>
               An enthusiastic Web Developer and AI enthusiast passionate about creating innovative digital solutions. I build user-centric applications that solve real-world problems — from smart attendance systems to expense management platforms.
