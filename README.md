@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Ayush Raj — Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A personal developer portfolio built with **React**, featuring a fully interactive terminal-style hero section, smooth animations, and a clean dark UI.
 
-## Available Scripts
+🌐 **Live:** [https://ar210505.github.io/portfolio-website/](https://ar210505.github.io/portfolio-website/)  
+📁 **Repo:** [https://github.com/ar210505/Portfolio-master](https://github.com/ar210505/Portfolio-master)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 👤 About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Hi, I'm **Ayush Raj** — a B.Tech CSE student at ITER, SOA University, Bhubaneswar. I'm a Full Stack Developer & AI Enthusiast passionate about building scalable web applications and intelligent digital solutions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🗂️ Sections
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Hero** — Interactive terminal (AR-OS) with commands: `whoami`, `skills`, `projects`, `experience`, `clear`
+- **About** — Brief introduction and background
+- **Skills** — Frontend, Backend, AI/ML, Languages
+- **Projects** — QuickAttend, Smart Expense Splitter
+- **Experience** — SAIL Vocational Training, SIH 2025 Finalist, Hackathon Competitor
+- **Contact** — Email & Phone (click to copy)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **React** (Create React App)
+- **Framer Motion** — animations
+- **Space Grotesk + Space Mono** — fonts
+- **CSS3** — custom styling
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+# Install dependencies
+npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Start development server
+npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Build for production
+npm run build
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📬 Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- 📧 ayush210505bksc@gmail.com
+- 📞 +91 9470351465
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-raj-001a89287)
+- 🐙 [GitHub](https://github.com/ar210505)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2026 Ayush Raj. All rights reserved.
