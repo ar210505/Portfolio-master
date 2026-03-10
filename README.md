@@ -2,8 +2,7 @@
 
 A personal developer portfolio built with **React**, featuring a fully interactive terminal-style hero section, smooth animations, and a clean dark UI.
 
-🌐 **Live:** [https://ar210505.github.io/portfolio-website/](https://ar210505.github.io/portfolio-website/)  
-📁 **Repo:** [https://github.com/ar210505/Portfolio-master](https://github.com/ar210505/Portfolio-master)
+🌐 **Live:** [https://ar210505.github.io/Portfolio-master/](https://ar210505.github.io/Portfolio-master/)
 
 ---
 
