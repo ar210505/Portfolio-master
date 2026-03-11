@@ -19,7 +19,7 @@ Hi, I'm **Ayush Raj** — a B.Tech CSE student at ITER, SOA University, Bhubanes
 - **Skills** — Frontend, Backend, AI/ML, Languages
 - **Projects** — QuickAttend, Smart Expense Splitter
 - **Experience** — SAIL Vocational Training, SIH 2025 Finalist, Hackathon Competitor
-- **Contact** — Email & Phone (click to copy)
+- **Contact** — Email & Phone (click to copy), LinkedIn
 
 ---
 
@@ -51,7 +51,7 @@ npm run build
 
 - 📧 ayush210505bksc@gmail.com
 - 📞 +91 9470351465
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-raj-001a89287)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayushraj2105)
 - 🐙 [GitHub](https://github.com/ar210505)
 
 ---
