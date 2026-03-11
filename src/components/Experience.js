@@ -33,7 +33,7 @@ function Experience() {
         viewport={{ once: true, amount: 0.1 }}
         transition={{ duration: 0.6 }}
       >
-        <h2 className="section-title"><span className="mono">04.</span> Experience</h2>
+        <h2 className="section-title">Experience</h2>
         
         <div className="timeline">
           {experiences.map((exp, index) => (

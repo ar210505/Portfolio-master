@@ -31,7 +31,7 @@ function Skills() {
         viewport={{ once: true, amount: 0.2 }}
         transition={{ duration: 0.6 }}
       >
-        <h2 className="section-title"><span className="mono">02.</span> Skills Directory</h2>
+        <h2 className="section-title">Skills Directory</h2>
         
         <div className="skills-grid">
           {categories.map((category, index) => (

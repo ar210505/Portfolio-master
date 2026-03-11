@@ -28,7 +28,7 @@ function Projects() {
         viewport={{ once: true, amount: 0.1 }}
         transition={{ duration: 0.6 }}
       >
-        <h2 className="section-title"><span className="mono">03.</span> Selected Works</h2>
+        <h2 className="section-title">Selected Works</h2>
         
         <div className="projects-grid">
           {projects.map((project, index) => (
